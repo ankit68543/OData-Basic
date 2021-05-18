@@ -18,7 +18,9 @@ https://docs.microsoft.com/en-us/odata/overview
 
 https://docs.microsoft.com/en-us/odata/concepts/queryoptions-overview
 
-After going through above article, play around with my API endpoint.
+After going through above article, play around with my API endpoint 
+
+Note : I am using In-memory datasource object with EF Core.If you want to learn more about in-memory DB follow the mentioned link => https://docs.microsoft.com/en-us/ef/core/providers/in-memory/?tabs=dotnet-core-cli
 
 ## <3 Happy Coding <3
 
